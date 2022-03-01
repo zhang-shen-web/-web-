@@ -13,13 +13,9 @@ Linux下C++轻量级Web服务器，助力初学者快速实践网络编程，搭
 
 Demo演示
 ----------
-> * 注册演示
-
-<div align=center><img src="/large/005TJ2c7ly1ge0iz0dkleg30m80bxjyj.gif" height="429"/> </div>
-
 > * 登录演示
 
-<div align=center><https://github.com/zhang-shen-web/-web-/blob/main/root/demo.gif height="429"/> </div>
+<div align=center><img src="https://github.com/zhang-shen-web/-web-/blob/main/root/demo.gif" height="400"/> </div>
 
 
 
